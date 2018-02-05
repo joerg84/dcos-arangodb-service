@@ -1,0 +1,4 @@
+PACKAGE_NAME = 'arangodb'
+SERVICE_NAME = 'arangodb'
+DEFAULT_TASK_COUNT = 1
+
